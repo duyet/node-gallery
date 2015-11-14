@@ -128,3 +128,7 @@ For windows:
 2. Install imagemagick
 3. Make sure that imagemagick tools are available on system path (e.g., you can test if you can run "convert.exe" from CMD)
 4. Restart cygwin, CMD or whatever you use to fire up node.js
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/duyetdev/node-gallery/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
