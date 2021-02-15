@@ -13,7 +13,7 @@
     "node": ">=0.6.2"
   },
   "dependencies": {
-    "ejs": "2.0.8",
+    "ejs": "3.1.6",
     "exif": "git://github.com/cianclarke/node-exif.git",
     "express": "4.10.7",
     "gm": "^1.17.0",
